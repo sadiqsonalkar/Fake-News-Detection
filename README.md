@@ -40,3 +40,4 @@ We will check whether is there any null values. If there are any, we will fill i
 Unreliable in our dataset:
 ![image](https://user-images.githubusercontent.com/43111400/232422910-6f1cd4c6-d35d-498f-b346-d1c84efefa75.png)
 Reliable in our dataset:
+![image](https://user-images.githubusercontent.com/43111400/232423033-60501cad-daab-46d4-bd2f-5d2938cfa5fe.png)
