@@ -44,7 +44,11 @@ Reliable in our dataset:
 ![image](https://user-images.githubusercontent.com/43111400/232423033-60501cad-daab-46d4-bd2f-5d2938cfa5fe.png)
 
 If we want to check the live news. We will have to put the live news in the dataset first. 
+
 Because if we don’t put the live news into the dataset and directly feed to the program it won’t work.
+
 Because the live news didn’t go through any process of stopwords removal, converting the upper-case letter into lower case, neither it goes through the process of porter Stemmer nor the decision tree classifier. 
+
 So, it will not give the accurate result.
+
 Once we put the news into the dataset. It will go through all the process and the result will be accurate.
