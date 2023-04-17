@@ -52,3 +52,5 @@ Because the live news didn’t go through any process of stopwords removal, conv
 So, it will not give the accurate result.
 
 Once we put the news into the dataset. It will go through all the process and the result will be accurate.
+
+# I have uploaded all the files, Project implemetation and the dataset
