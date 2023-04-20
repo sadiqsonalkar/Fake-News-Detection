@@ -1,5 +1,5 @@
 # Fake-News-Detection
-An NLP program to identify whether the news article is real or fake.
+An NLP program to identify whether the news article is real or fake using Python in Jupyter Notebook
 
 # Our dataset has the following attributes:
 1.	id: unique id for a news article
